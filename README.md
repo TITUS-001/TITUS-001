@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TITUS-001
-- 👀 I’m interested in ... making money 
+- 👀 I’m interested in Web designing and a bit of programming
 - 🌱 I’m currently pursuing my degree
 
 <!---
